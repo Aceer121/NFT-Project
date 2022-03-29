@@ -98,7 +98,7 @@ body {
  	align-items: center;
  }
  
-.container ul li: first-child {
+.container ul li:first-child {
 	color: cyan;
 }
 
